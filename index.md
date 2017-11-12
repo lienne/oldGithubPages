@@ -13,7 +13,7 @@ Can't stand freezing on the spot and forgetting how to initialize a variable?
 
 Well, friend, have I got news for you......
 
-## [](#header-2)Your times of crappy coding are OVER with ISwearICanCode!!
+## [](#header-1)Your times of crappy coding are OVER with ISwearICanCode!!
 
 So easy, even YOU can do it!!
 
@@ -25,7 +25,7 @@ Like MAGIC, the code writes itself as you slap at your keyboard ferociously and 
 
 ISwearICanCode is SO intelligent, you can even input random errors and backspacing for MAXIMUM verisimilitude!
 
-#[](WOW)WOW!!!!!!!
+###[](#header-2)WOW!!!!!!!
 
 Code without looking at the screen!
 
