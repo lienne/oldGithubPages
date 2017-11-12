@@ -13,6 +13,23 @@ Can't stand freezing on the spot and forgetting how to initialize a variable?
 
 Well, friend, have I got news for you......
 
-## [](#header-2)YOUR TIMES OF CRAPPY CODING ARE OVER!!
+## [](#header-2)Your times of crappy coding are OVER with ISwearICanCode!!
 
+So easy, even YOU can do it!!
+
+
+
+Just grab some code, stick it in ISwearICanCode, and bash away at your keyboard like the lunatic you are!
+
+Like MAGIC, the code writes itself as you slap at your keyboard ferociously and randomly! 
+
+ISwearICanCode is SO intelligent, you can even input random errors and backspacing for MAXIMUM verisimilitude!
+
+#[](WOW)WOW!!!!!!!
+
+Code without looking at the screen!
+
+Impress all of your friends with your amazing l33t h4ckZ0rZ sk1llz!
+
+FINALLY get that girl to notice how stunningly awesome you are!!
 
