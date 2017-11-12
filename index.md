@@ -25,7 +25,7 @@ Like MAGIC, the code writes itself as you slap at your keyboard ferociously and 
 
 ISwearICanCode is SO intelligent, you can even input random errors and backspacing for MAXIMUM verisimilitude!
 
-###[](#header-2)WOW!!!!!!!
+### [](#header-2)WOW!!!!!!!
 
 Code without looking at the screen!
 
