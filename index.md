@@ -35,4 +35,4 @@ FINALLY get that girl to notice how stunningly awesome you are!!
 
 Download Now!!
 
-![](downloadbutton.jpg)
+![](assets/image/downloadbutton.jpg)
