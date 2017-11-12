@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#main-header)Welcome
+# [](#main-header)Welcome, Ye Who Can't Code for Shit...
 
 Are you tired of making simple mistakes while live coding in front of others?
 
