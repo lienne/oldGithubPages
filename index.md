@@ -18,6 +18,8 @@ Well, friend, have I got news for you......
 So easy, even YOU can do it!!
 
 
+![](assets/image/ISwearICanCodeDemo.gif)
+
 
 Just grab some code, stick it in ISwearICanCode, and bash away at your keyboard like the lunatic you are!
 
