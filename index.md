@@ -25,6 +25,8 @@ Just grab some code, stick it in ISwearICanCode, and bash away at your keyboard 
 
 Like MAGIC, the code writes itself as you slap at your keyboard ferociously and randomly! 
 
+Full support for code completion by pressing tab (that's the button on your keyboard that says 'Tab') for lightining-fast fake coding!
+
 ISwearICanCode is SO intelligent, you can even input random errors and backspacing for MAXIMUM verisimilitude!
 
 ### [](#header-2)WOW!!!!!!!
