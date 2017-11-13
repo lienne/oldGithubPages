@@ -35,7 +35,9 @@ Code without looking at the screen!
 
 Impress all of your friends with your amazing l33t h4ckZ0rZ sk1llz!
 
-FINALLY get that girl to notice how stunningly awesome you are!!
+Get that girl to notice how stunningly awesome you are!
+
+Finally get your parents to feel proud of you!
 
 Download Now!!
 
