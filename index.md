@@ -39,7 +39,7 @@ Get that girl to notice how stunningly awesome you are!
 
 Finally get your parents to feel proud of you!
 
-Download Now!!
+Download Now!
 
 ![](assets/image/downloadbutton1.jpg)
 ![](assets/image/downloadbutton.jpg)
